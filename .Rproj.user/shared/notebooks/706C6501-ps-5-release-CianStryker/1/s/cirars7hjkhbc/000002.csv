@@ -1,0 +1,11 @@
+"0",""
+"0","# This is all new because I hadn't done this on my last problem set. First step is to create a directory."
+"0",""
+"0","dir_create(""raw-data"")"
+"0",""
+"0","# Now I'm downloading the raw data and then I'm sending it to my new directory."
+"0",""
+"0","download.file(""https://raw.githubusercontent.com/TheUpshot/2018-live-poll-results/master/data/elections-poll-oh01-1.csv"", destfile = ""C:/Users/cians/OneDrive/Documents/ps-5-release-CianStryker/raw-data/ohio_polls"", mode = ""wb"")"
+"2","Error in download.file(""https://raw.githubusercontent.com/TheUpshot/2018-live-poll-results/master/data/elections-poll-oh01-1.csv"",  : 
+  cannot open destfile 'C:/Users/cians/OneDrive/Documents/ps-5-release-CianStryker/raw-data/ohio_polls', reason 'No such file or directory'
+"
