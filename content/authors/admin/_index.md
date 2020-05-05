@@ -43,6 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Cian Stryker is a graduate student at the Davis Center for Russian, Eastern European, and Central Asian Studies at Harvard University. His research interests include digital surviellance in Central Asia, the "Belt and Road Initiative", and minority integration in the post-Soviet world. His area of focus is Eurasia broadly, but specifically he works on Central Asia, Russia, and Iran. While his background is largley in qualitative political science research, he now focuses on statistical modelling and data visualization by using R. 
+Cian Stryker is a graduate student at the Davis Center for Russian, Eastern European, and Central Asian Studies at Harvard University. His research interests include digital surviellance in Central Asia, the "Belt and Road Initiative", and minority integration in the post-Soviet world. His area of focus is Eurasia broadly, but specifically he works on Central Asia, Russia, and Iran. While his background is largley in qualitative political science research, he now focuses on statistical modelling and data visualization with R. 
 
 
