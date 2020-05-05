@@ -18,7 +18,7 @@ height = "450px"
 [[item]]
   title = " "
   content = "Wakhan Valley, Tajikistan"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -41,12 +41,12 @@ height = "450px"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/1.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = " "
   content = "Karakol, Kyrgyzstan"
-  align = "right "
+  align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/2.jpg"  # Image path relative to your `static/img/` folder.
