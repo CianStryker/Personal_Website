@@ -17,8 +17,8 @@ height = "450px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = " "
-  content = " "
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "Wakhan Valley, Tajikistan"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -36,7 +36,7 @@ height = "450px"
 
 [[item]]
   title = " "
-  content = ""
+  content = "Vardzia, Georgia"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -45,7 +45,7 @@ height = "450px"
 
 [[item]]
   title = " "
-  content = " "
+  content = "Karakol, Kyrgyzstan"
   align = "right "
 
   overlay_color = "#333"  # An HTML color value.
