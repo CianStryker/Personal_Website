@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "450px"
+height = "650px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -36,11 +36,11 @@ height = "450px"
 
 [[item]]
   title = " "
-  content = "Vardzia, Georgia"
+  content = "Stepantsminda, Georgia"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/1.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/1.2.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -52,4 +52,50 @@ height = "450px"
   overlay_img = "headers/2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
+[[item]]
+  title = " "
+  content = "Shymbulak, Kazakhstan"
+  align = "center"
+  
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/4.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = " "
+  content = "Bukhara, Uzbekistan"
+  align = "left"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/6.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = " "
+  content = "Ashgabat, Turkmenistan"
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/8.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+  
+[[item]]
+  title = " "
+  content = "Tallin, Estonia"
+  align = "right"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/7.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = " "
+  content = " Moscow, Russia"
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/5.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
