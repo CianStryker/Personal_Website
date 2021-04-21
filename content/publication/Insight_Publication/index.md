@@ -4,7 +4,7 @@ abstract: Chinese ICT companies
 authors:
 - admin
 
-date: "2018-05-01T00:00:00Z"
+date: "2020-11-16T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*Harvard University*'
 publication_short: ""
 publication_types:
 - "7"
-publishDate: "2018-05-01T00:00:00Z"
+publishDate: "2020-11-16T00:00:00Z"
 # slides: example
 summary: Chinese ICT companies
 
