@@ -27,9 +27,9 @@ title: "Budding Digital Authoritarianism in Central Asia"
 #url_dataset: "#"
 #url_pdf: "#" 
 #url_poster: "#"
-url_article: https://daviscenter.fas.harvard.edu/insights/budding-digital-authoritarianism-central-asia
+#url_project: "#"
 #url_slides: "#"
-#url_source: "#"
+url_source: https://daviscenter.fas.harvard.edu/insights/budding-digital-authoritarianism-central-asia
 #url_video: "#"
 ---
 
