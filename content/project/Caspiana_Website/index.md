@@ -7,6 +7,8 @@ image:
 summary: 'CASPIANA is a website I created to facilitate research on the fascinating regions spreading east and west of the Caspian Sea. It is hosted by Harvard University’s Davis Center Program on Central Asia. In Caspiana you can find links to selected media sources, government portals, legislation databases, statistics, and academic resources to study eight countries: Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan.'
 
 tags:
-- Other
+- Central Asia
+- South Caucasus
+- Website
 title: 'CASPIANA: Digital Toolbox for Students and Scholars of Central Asia and South Caucasus'
 ---
