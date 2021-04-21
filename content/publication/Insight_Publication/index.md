@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: Chinese Information Communication Technology (ICT) companies mass produce digital surveillance technology and export it globally, which may cause the expansion of Digital Authoritarianism across the developing world. Looking specifically at Central Asia, it is clear that authoritarian regimes are quickly developing their surveillance capacity by importing advanced cameras and facial recognition systems as part of "Safe City" initiatives. The implications for state-surveillance in the developing world are dire. 
 
 authors:
 - admin
