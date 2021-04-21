@@ -6,7 +6,7 @@ authors:
 
 date: "2020-11-16T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Davis Center**](https://daviscenter.fas.harvard.edu/insights/budding-digital-authoritarianism-central-asia)'
   focal_point: ""
