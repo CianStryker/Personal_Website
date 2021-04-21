@@ -27,9 +27,9 @@ title: "Integration and Differentiation within the Russian-speaking Diaspora: Es
 #url_dataset: "#"
 url_pdf: http://d-scholarship.pitt.edu/34260/1/Cian_ETD_Thesis_Final.pdf
 #url_poster: "#"
-url_project: http://d-scholarship.pitt.edu/34260/
+#url_project: "#" 
 #url_slides: "#"
-#url_source: "#"
+url_source: http://d-scholarship.pitt.edu/34260/
 #url_video: "#"
 ---
 
