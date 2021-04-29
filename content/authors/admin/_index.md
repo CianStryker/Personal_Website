@@ -16,9 +16,11 @@ interests:
 - Central Asia
 - Russia
 - Iran
-- Digital Surveillance
 - Statistical Modeling
 - Data Visualization
+- Cyber Security 
+- Digital Surveillance
+
 organizations:
 - name: Harvard University
   url: "https://daviscenter.fas.harvard.edu/"
