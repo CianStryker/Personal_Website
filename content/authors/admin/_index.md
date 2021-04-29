@@ -17,7 +17,7 @@ interests:
 - Russia
 - Iran
 - Digital Surveillance
-- Statistical Modelling
+- Statistical Modeling
 - Data Visualization
 organizations:
 - name: Harvard University
