@@ -8,5 +8,6 @@ summary: 'Anselm Hager, Krzysztof Krakowski, and Max Schaub find that exposure t
 
 tags:
 - Central Asia
+- Statistical Modeling
 title: 'Replication and extension of "Ethnic Riots and Prosocial Behavior: Evidence from Kyrgyzstan"' 
 ---

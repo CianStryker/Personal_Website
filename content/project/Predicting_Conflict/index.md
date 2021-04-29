@@ -7,7 +7,7 @@ image:
 summary: 'Compared to causal modeling, using Machine Learning techniques to predict violent civil conflict is nascent within the broader conflict literature. In this paper, Liz Masten and I run three Machine Learning models – OLS Regression, Ridge Regression, and Random Forest – on a dataset of our own making to predict instances of violent intrastate conflict.'
 
 tags:
-- Other
+- Statistical Modeling 
 
 title: 'Predicting Intrastate Conflict Using Machine Learning'
 ---

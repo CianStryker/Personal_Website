@@ -7,6 +7,7 @@ image:
 summary: 'As part of my GOV 1005 "Data" course, I created this GIS map of all high speed citations given in Oklahoma City between 2011 and 2016. I also created my first shinyapp to showcase my work.'
 
 tags:
-- Other
-title: 'High Speed Citations in Oklahoma City between 2011-2006' 
+- Data Visualization
+
+title: 'High Speed Citations in Oklahoma City between 2011-20016' 
 ---

@@ -8,7 +8,6 @@ summary: 'CASPIANA is a website I created to facilitate research on the fascinat
 
 tags:
 - Central Asia
-- South Caucasus
-- Website
+- Website Development
 title: 'CASPIANA: Digital Toolbox for Students and Scholars of Central Asia and South Caucasus'
 ---
