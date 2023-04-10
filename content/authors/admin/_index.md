@@ -11,20 +11,20 @@ education:
     institution: University of Pittsburgh
     year: 2019
 
-email: "cianstryker@g.harvard.edu"
+email: "cianstryker1@gmail.com"
 interests:
+- Data Science
+- Foreign Policy
 - Central Asia
 - Russia
 - Iran
 - Statistical Modeling
-- Data Visualization
-- Cyber Security 
 - Digital Surveillance
 
 organizations:
 - name: Premise Data Corporation
   url: "https://www.premise.com/"
-role: Strategic Solutions Consultant
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-Cian Stryker is a skilled professional with a passion for leveraging data to address complex challenges at the intersection of foreign policy and technology. Currently working as a Data Scientist at Premise, Cian utilizes Python, SQL, and R to analyze data and provide actionable insights to public sector clients. With a Master's degree in Russian, Eastern European, and Central Asian studies from Harvard, his qualitative social science foundation complements his current quantitative focus. With professional proficiency in Russian and Persian (Farsi), Cian's diverse skill set and language capabilities make him a valuable asset in navigating complex global landscapes.
+Cian Stryker is a skilled professional with a passion for leveraging data to address complex challenges at the intersection of foreign policy and technology. Currently working as a Data Scientist at Premise Data Corporation, Cian utilizes Python, SQL, and R to analyze and provide actionable insights to public sector clients. With a Master's degree in Russian, Eastern European, and Central Asian studies from Harvard, his qualitative social science foundation complements his current quantitative focus. With professional proficiency in Russian and Persian (Farsi), Cian's diverse skill set and language capabilities make him a valuable asset in navigating complex global landscapes.
 
 
 
