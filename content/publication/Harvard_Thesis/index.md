@@ -4,7 +4,7 @@ abstract: Harvard MA Thesis
 authors:
 - admin
 
-date: "2021-03-22T00:00:00Z"
+date: "2021-07-22T00:00:00Z"
 doi: ""
 featured: false
 image:
