@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-Cian Stryker is currently a Strategic Solutions Consultant for Premise Data Corporation working to provide public sector clients actionable data and analysis. He is broadly interested in the intersection of technology with foreign policy and recently completed an MA at Harvard University with a focus on data analytics and the political implications of surveillance within Eurasia. He previously worked in international development abroad and is professionally proficient in both Russian and Persian (Farsi). 
+Cian Stryker is a skilled professional with a passion for leveraging data to address complex challenges at the intersection of foreign policy and technology. Currently working as a Data Scientist at Premise, Cian utilizes Python, SQL, and R to analyze data and provide actionable insights to public sector clients. With a Master's degree in Russian, Eastern European, and Central Asian studies from Harvard, his qualitative social science foundation complements his current quantitative focus. With professional proficiency in Russian and Persian (Farsi), Cian's diverse skill set and language capabilities make him a valuable asset in navigating complex global landscapes.
 
 
 
